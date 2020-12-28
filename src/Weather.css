@@ -1,0 +1,20 @@
+.units {
+  font-size: 20px;
+  font-weight: 200;
+  position: relative;
+  top: -25px;
+}
+.today {
+  font-weight: 300;
+  position: relative;
+  right: -200px;
+  top: -300px;
+  width: 200px;
+  margin: 0 auto;
+}
+.previsions {
+  position: relative;
+  top: -80px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}

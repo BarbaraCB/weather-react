@@ -122,6 +122,16 @@ export default function Weather() {
           </div>
         </div>
       </div>
+      <footer>
+            <a
+              href="https://github.com/BarbaraCB/weather-react"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Open-source code
+            </a>{" "}
+            by Barbara Bousquet
+          </footer>
     </div>
   );
 }

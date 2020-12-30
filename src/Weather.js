@@ -45,7 +45,7 @@ export default function Weather() {
           </form>
 
           <h2 className="image">
-            <img src={weatherData.imgUrl} />
+            <img alt="" src={weatherData.imgUrl} />
           </h2>
 
           <h3>{weatherData.city}</h3>
